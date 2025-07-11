@@ -23,7 +23,7 @@ body {
     width: 100%;
     color: #fff;
     font-family: Plain, Helvetica Neue, Arial, Noto Sans, sans-serif;
-    overflow: hidden;
+    /* overflow: hidden; */
 
 }
 
